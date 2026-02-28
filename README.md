@@ -19,7 +19,7 @@ I work mainly with HTML, CSS, and JavaScript, creating clean user interfaces and
  - ⚡ Currently, I am looking for a remote opportunity where I can grow as a developer, contribute to real projects, and continuously improve my skills.
 </details>
 
-![Revengekaiser GitHub stats](https://github-readme-stats.vercel.app/api?username=Revengekaiser&show_icons=true&theme=neon)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
