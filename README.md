@@ -19,7 +19,7 @@ I work mainly with HTML, CSS, and JavaScript, creating clean user interfaces and
  - ⚡ Currently, I am looking for a remote opportunity where I can grow as a developer, contribute to real projects, and continuously improve my skills.
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Revengekaiser&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
