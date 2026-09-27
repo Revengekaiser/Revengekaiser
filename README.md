@@ -26,7 +26,7 @@ I work mainly with HTML, CSS, and JavaScript, creating clean user interfaces and
 - &#9749; https://github.com/Revengekaiser/Project_Coffe
 - 🎮 https://github.com/Revengekaiser/Gamer-Storage
 - 🚗 https://github.com/Revengekaiser/Project_Car
-- U+1F35E; https://github.com/Revengekaiser/Project_Bakery
+- U+1F35E https://github.com/Revengekaiser/Project_Bakery
 - 
 
 <!-- GIF -->
